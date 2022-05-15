@@ -32,6 +32,6 @@ Dentro de esta aplicación se podrá:
 > Acerca de
                 
 ----
-
+Elaborado por :
 ![](https://alexiaberenice.github.io/Logo.png)
 ###End
